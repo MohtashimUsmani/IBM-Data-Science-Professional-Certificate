@@ -6,7 +6,6 @@
 
 _A structured, project-by-project record of the IBM Data Science Professional Certificate (Coursera), covering Python, SQL, data analysis, visualization, and machine learning._
 
-[![Certificate Progress](https://img.shields.io/badge/Progress-5%2F12%20Courses-blue?style=for-the-badge)](#-progress)
 [![IBM](https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
