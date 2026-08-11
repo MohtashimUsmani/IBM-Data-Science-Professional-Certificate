@@ -30,18 +30,22 @@ This repository showcases the **final labs and graded final projects** I've comp
 ```text
 IBM-Data-Science-Professional-Certificate/
 │
-├── 01_What-is-Data-Science/
-├── 02_Tools-for-Data-Science/
-├── 03_Data-Science-Methodology/
-├── 04_Python-for-Data-Science-AI-and-Development/
-├── 05_Python-Project-for-Data-Science/
-├── 06_Databases-and-SQL-for-Data-Science-with-Python/
-├── 07_Data-Analysis-with-Python/
-├── 08_Data-Visualization-with-Python/
-├── 09_Machine-Learning-with-Python/
-├── 10_Applied-Data-Science-Capstone/
-├── 11_Generative-AI-Elevate-Your-Data-Science-Career/
-├── 12_Data-Scientist-Career-Guide-and-Interview-Preparation/
+## ✅ Progress
+
+| # | Course | Status |
+|---|--------|--------|
+| 01 | What is Data Science | ✅ Completed |
+| 02 | Tools for Data Science | ✅ Completed |
+| 03 | Data Science Methodology | ✅ Completed |
+| 04 | Python for Data Science, AI & Development | ✅ Completed |
+| 05 | **Python Project for Data Science** | ✅ Completed — [Stock & Revenue Dashboard](05_Python-Project-for-Data-Science/) |
+| 06 | **Databases and SQL for Data Science with Python** | ✅ Completed — [Chicago Public Schools SQL Analysis](06_Databases-and-SQL-for Data-Science-with-Python/) |
+| 07 | Data Analysis with Python | 🔲 Not started |
+| 08 | Data Visualization with Python | 🔲 Not started |
+| 09 | Machine Learning with Python | 🔲 Not started |
+| 10 | Applied Data Science Capstone | 🔲 Not started |
+| 11 | Generative AI: Elevate Your Data Science Career | 🔲 Not started |
+| 12 | Data Scientist Career Guide & Interview Preparation | 🔲 Not started |
 │
 └── assets/
     ├── certificates/   → final certificate PDFs/images
