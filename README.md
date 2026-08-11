@@ -2,7 +2,7 @@
 
 # 📊 IBM Data Science Professional Certificate
 
-### Coursework, Labs & Projects — Mohtashim Usmani
+### Final Labs & Projects — Mohtashim Usmani
 
 _A structured, project-by-project record of the IBM Data Science Professional Certificate (Coursera), covering Python, SQL, data analysis, visualization, and machine learning._
 
@@ -15,7 +15,9 @@ _A structured, project-by-project record of the IBM Data Science Professional Ce
 
 ## 📌 About this Repository
 
-This repository is a single home for every assignment, lab, and final project completed as part of the **IBM Data Science Professional Certificate**. Each course lives in its own numbered folder with its own README, notebooks, and supporting assets — so the work is easy to browse, and easy to extend as more courses are completed.
+This repository showcases the **final labs and graded final projects** I've completed as part of the **IBM Data Science Professional Certificate**. Each course lives in its own numbered folder with a README, the final project notebook(s), and supporting assets.
+
+> This repo intentionally does **not** include IBM's course readings, guided lab templates, or intermediate practice exercises only the original work I produced to complete each course, so the content here reflects my own output rather than the paid course material itself.
 
 > 🚧 **Status:** In progress — 6 of 12 courses completed. This repo is updated as new courses are finished.
 
