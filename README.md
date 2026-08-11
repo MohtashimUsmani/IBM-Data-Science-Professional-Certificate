@@ -31,8 +31,8 @@ IBM-Data-Science-Professional-Certificate/
 ├── 02_Tools-for-Data-Science/
 ├── 03_Data-Science-Methodology/
 ├── 04_Python-for-Data-Science-AI-and-Development/
-├── 05_Python-Project-for-Data-Science/          ✅ Completed
-├── 06_Databases-and-SQL-for-Data-Science-with-Python/  ✅ Completed
+├── 05_Python-Project-for-Data-Science/
+├── 06_Databases-and-SQL-for-Data-Science-with-Python/
 ├── 07_Data-Analysis-with-Python/
 ├── 08_Data-Visualization-with-Python/
 ├── 09_Machine-Learning-with-Python/
@@ -46,7 +46,7 @@ IBM-Data-Science-Professional-Certificate/
     └── images/         → shared README graphics
 ```
 
-Every course folder follows the same pattern: a `README.md` explaining what the course covered and what was built, plus the relevant `notebooks/`, `data/`, `sql/`, or `images/` subfolders.
+Every course folder follows the same pattern: a `README.md` explaining what the course covered and what was built.
 
 ---
 
@@ -95,6 +95,6 @@ This repository is licensed under the [MIT License](LICENSE) — coursework and 
 
 <div align="center">
 
-**Connect with me:** [GitHub](https://github.com/MohtashimUsmani) · Add your LinkedIn/portfolio links here
+**Connect with me:** [GitHub](https://github.com/MohtashimUsmani) · [LinkedIn](https://www.linkedin.com/in/mohtashim-usmani/)
 
 </div>
