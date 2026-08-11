@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (avoid committing large raw datasets — keep small samples only)
+*.csv.bak
+*.zip
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
