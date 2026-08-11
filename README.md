@@ -50,25 +50,6 @@ Every course folder follows the same pattern: a `README.md` explaining what the 
 
 ---
 
-## ✅ Progress
-
-| # | Course | Status | Key Deliverable |
-|---|--------|--------|------------------|
-| 01 | What is Data Science | 🔲 Not started | — |
-| 02 | Tools for Data Science | 🔲 Not started | — |
-| 03 | Data Science Methodology | 🔲 Not started | — |
-| 04 | Python for Data Science, AI & Development | 🔲 Not started | — |
-| 05 | **Python Project for Data Science** | ✅ **Completed** | [Stock & Revenue Dashboard](05_Python-Project-for-Data-Science/) |
-| 06 | **Databases and SQL for Data Science with Python** | ✅ **Completed** | [Chicago Public Schools SQL Analysis](06_Databases-and-SQL-for-Data-Science-with-Python/) |
-| 07 | Data Analysis with Python | 🔲 Not started | — |
-| 08 | Data Visualization with Python | 🔲 Not started | — |
-| 09 | Machine Learning with Python | 🔲 Not started | — |
-| 10 | Applied Data Science Capstone | 🔲 Not started | — |
-| 11 | Generative AI: Elevate Your Data Science Career | 🔲 Not started | — |
-| 12 | Data Scientist Career Guide & Interview Prep | 🔲 Not started | — |
-
----
-
 ## 🏅 Badges Earned
 
 Verified Credly badges for completed courses are stored in [`assets/badges/`](assets/badges/) and showcased on my [GitHub profile README](https://github.com/MohtashimUsmani/MohtashimUsmani).
