@@ -30,8 +30,6 @@ This repository showcases the **final labs and graded final projects** I've comp
 ```text
 IBM-Data-Science-Professional-Certificate/
 │
-## ✅ Progress
-
 | # | Course | Status |
 |---|--------|--------|
 | 01 | What is Data Science | ✅ Completed |
