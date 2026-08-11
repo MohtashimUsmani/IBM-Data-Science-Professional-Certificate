@@ -18,7 +18,7 @@ _A structured, project-by-project record of the IBM Data Science Professional Ce
 
 This repository is a single home for every assignment, lab, and final project completed as part of the **IBM Data Science Professional Certificate**. Each course lives in its own numbered folder with its own README, notebooks, and supporting assets — so the work is easy to browse, and easy to extend as more courses are completed.
 
-> 🚧 **Status:** In progress — 5 of 12 courses completed. This repo is updated as new courses are finished.
+> 🚧 **Status:** In progress — 6 of 12 courses completed. This repo is updated as new courses are finished.
 
 ---
 
