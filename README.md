@@ -18,6 +18,7 @@ _A structured, project-by-project record of the IBM Data Science Professional Ce
 This repository showcases the **final labs and graded final projects** I've completed as part of the **IBM Data Science Professional Certificate**. Each course lives in its own numbered folder with a README, the final project notebook(s), and supporting assets.
 
 > This repo intentionally does **not** include IBM's course readings, guided lab templates, or intermediate practice exercises only the original work I produced to complete each course, so the content here reflects my own output rather than the paid course material itself.
+
 > Only courses that include a hands-on final project or lab are represented with a folder here. Courses not listed are conceptual/theory-based and were assessed through a final quiz rather than a project, so there's no original project work to showcase for them.
 
 > 🚧 **Status:** In progress — 6 of 12 courses completed. This repo is updated as new courses are finished.
