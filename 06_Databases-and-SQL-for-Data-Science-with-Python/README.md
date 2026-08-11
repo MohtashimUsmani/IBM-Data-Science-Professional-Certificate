@@ -23,9 +23,3 @@ This course covered relational databases and SQL fundamentals — writing querie
 ## 🛠 Tools
 
 `Python` · `SQLite` · `ipython-sql` · `pandas` · `Jupyter`
-
-## 📁 Folders
-
-- [`notebooks/`](notebooks/) — Jupyter notebooks
-- [`sql/`](sql/) — standalone `.sql` query files, if extracted separately
-- [`images/`](images/) — query result screenshots / ER diagrams
