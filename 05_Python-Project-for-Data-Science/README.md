@@ -23,7 +23,3 @@ This course focused on extracting real-world data through **web scraping** and *
 ## 🛠 Tools
 
 `Python` · `pandas` · `yfinance` · `BeautifulSoup` · `requests` · `plotly`
-
-## 🖼 Images
-
-Dashboard screenshots/exports go in [`images/`](images/).
