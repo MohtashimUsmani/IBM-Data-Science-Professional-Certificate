@@ -10,8 +10,7 @@ This course covered relational databases and SQL fundamentals — writing querie
 
 | Notebook | Description |
 |---|---|
-| [`01_chicago_data_sql_practice.ipynb`](notebooks/01_chicago_data_sql_practice.ipynb) | Practice lab: loads the Chicago Public Schools Progress Report Cards (2011–2012) dataset into SQLite and runs exploratory SQL queries. |
-| [`02_chicago_data_graded_assignment.ipynb`](notebooks/02_chicago_data_graded_assignment.ipynb) | **Graded assignment.** Loads three linked Chicago datasets (Census socioeconomic indicators, Public Schools, and Crime data) into SQLite and answers analytical questions using SQL joins and aggregations. |
+| [`01_chicago_data_graded_assignment.ipynb`](notebooks/02_chicago_data_graded_assignment.ipynb) | **Graded assignment.** Loads three linked Chicago datasets (Census socioeconomic indicators, Public Schools, and Crime data) into SQLite and answers analytical questions using SQL joins and aggregations. |
 
 ## 🎯 What This Project Demonstrates
 
