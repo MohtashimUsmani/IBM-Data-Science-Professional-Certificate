@@ -49,8 +49,8 @@ IBM-Data-Science-Professional-Certificate/
 |---|--------|--------|
 | 01 | What is Data Science | ✅ Completed |
 | 02 | Tools for Data Science | ✅ Completed |
-| 03 | Data Science Methodology | 🔲 Not started |
-| 04 | Python for Data Science, AI & Development | 🔲 Not started |
+| 03 | Data Science Methodology | ✅ Completed |
+| 04 | Python for Data Science, AI & Development | ✅ Completed |
 | 05 | **Python Project for Data Science** | ✅ Completed — [Stock & Revenue Dashboard](05_Python-Project-for-Data-Science/) |
 | 06 | **Databases and SQL for Data Science with Python** | ✅ Completed — [Chicago Public Schools SQL Analysis](06_Databases-and-SQL-for-Data-Science-with-Python/) |
 | 07 | Data Analysis with Python | 🔲 Not started |
