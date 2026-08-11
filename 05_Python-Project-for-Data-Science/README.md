@@ -10,8 +10,7 @@ This course focused on extracting real-world data through **web scraping** and *
 
 | Notebook | Description |
 |---|---|
-| [`01_web_scraping_lab.ipynb`](notebooks/01_web_scraping_lab.ipynb) | Practice lab on extracting structured data from HTML pages using `requests` and `BeautifulSoup`. |
-| [`02_stock_revenue_dashboard_final_project.ipynb`](notebooks/02_stock_revenue_dashboard_final_project.ipynb) | **Final graded project.** Extracts Tesla and GameStop stock data via the `yfinance` API and quarterly revenue data via web scraping, then visualizes stock price against revenue trends using `plotly`. |
+| [`01_stock_revenue_dashboard_final_project.ipynb`](notebooks/02_stock_revenue_dashboard_final_project.ipynb) | **Final graded project.** Extracts Tesla and GameStop stock data via the `yfinance` API and quarterly revenue data via web scraping, then visualizes stock price against revenue trends using `plotly`. |
 
 ## 🎯 What This Project Demonstrates
 
