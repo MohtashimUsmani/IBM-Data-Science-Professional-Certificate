@@ -27,7 +27,7 @@ This repository showcases the **final labs and graded final projects** I've comp
 
 ## 🗂 Repository Structure
 
-```text
+
 IBM-Data-Science-Professional-Certificate/
 │
 | # | Course | Status |
@@ -49,7 +49,7 @@ IBM-Data-Science-Professional-Certificate/
     ├── certificates/   → final certificate PDFs/images
     ├── badges/         → Credly badge images
     └── images/         → shared README graphics
-```
+
 
 Every course folder follows the same pattern: a `README.md` explaining what the course covered and what was built.
 
