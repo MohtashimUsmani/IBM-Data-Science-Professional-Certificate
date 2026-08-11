@@ -35,8 +35,8 @@ IBM-Data-Science-Professional-Certificate/
 ├── 06_Databases-and-SQL-for-Data-Science-with-Python/  ✅ Completed
 │
 └── assets/
-    ├── certificates/   → final certificate PDFs
-    └── badges/         → Credly badge images
+    ├── badges/         → Credly badge images
+    └── certificates/   → final certificate PDFs
 ```
 
 > A folder is added here only once a course is **completed** and has an original final project or lab to show. Quiz-only, conceptual courses won't get a folder — their completion is tracked below, but there's no project content to display for them.
