@@ -320,9 +320,9 @@ The version used in this course was slightly modified for the IBM Skills Network
 
 BS FinTech Student | Data Science & Machine Learning Learner
 
-GitHub: [@MohtashimUsmani](https://github.com/MohtashimUsmani)
+PortFolio: [@MohtashimUsmani](https://www.mohtashimusmani.me)
 
-LinkedIn: [Mohtashim Usmani](https://www.linkedin.com/)
+LinkedIn: [Mohtashim Usmani](https://www.linkedin.com/in/mohtashim-usmani/)
 
 ---
 
