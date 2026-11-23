@@ -1,0 +1,20 @@
+## Lab 2 Note: Customer Error
+
+**Error:** `AttributeError: 'NoneType' object has no attribute 'string'`
+
+**Where:** the Customer line, `customer = row[6].a.string`
+
+**Cause:** Some Customer cells in the Wikipedia table have no link, so `row[6].a` is `None`, and `None.string` crashes the loop.
+
+**Effect:** The loop stopped partway through. Customer, Launch outcome and Booster landing had **105** records while the other columns had **106**.
+
+**Fix:** Use the link text when a link exists, and the plain cell text when it doesn't:
+
+    def cell_text(cell):
+        if cell.a is not None and cell.a.string:
+            return cell.a.string.strip()
+        return cell.get_text().strip()
+
+    customer = cell_text(row[6])
+
+**Result:** The loop finished without errors, and all 11 columns had **121** records.

@@ -1,0 +1,23 @@
+I am working on the SpaceX Falcon 9 First Stage Landing Prediction Capstone Project, specifically Lab 1: Collecting the Data.
+
+Unfortunately, I am unable to proceed because the external SpaceX API used by the lab is returning a 522 Connection Timed Out error.
+
+Technical details:
+
+The following function fails during execution:
+
+getBoosterVersion(data)
+
+The resulting error is:
+
+JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+I investigated the issue and performed these tests:
+
+General internet connectivity from JupyterLab: HTTP 200.
+
+SpaceX API from JupyterLab: HTTP 522.
+
+SpaceX API directly from my browser: HTTP 522.
+
+This suggests that the issue is with the external API rather than my Python code or general internet connection.
